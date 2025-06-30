@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADET_Nikki_FrontEnd", "ADET_Nikki_FrontEnd\ADET_Nikki_FrontEnd.csproj", "{BDE32A7F-1BE0-47B6-8F95-614822136089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE32A7F-1BE0-47B6-8F95-614822136089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE32A7F-1BE0-47B6-8F95-614822136089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE32A7F-1BE0-47B6-8F95-614822136089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE32A7F-1BE0-47B6-8F95-614822136089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF43A628-5608-4E1B-9A59-3DADA3C3B652}
+	EndGlobalSection
+EndGlobal
